@@ -8,7 +8,7 @@
         >
           <img
             class="h-96 w-full flex-none rounded-2xl object-cover shadow-xl lg:aspect-square lg:h-auto lg:max-w-sm"
-            src="/serving.jpg"
+            src="/madam.jpeg"
             alt=""
           />
           <div class="w-full flex-auto">

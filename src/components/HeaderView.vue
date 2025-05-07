@@ -116,7 +116,7 @@ const navigation = [
 ];
 const internalLink = [
   { name: "What We Do", href: "/#services" },
-  { name: "Impart", href: "/#impact" },
+  { name: "Impact", href: "/#impact" },
   { name: "About Us", href: "/AboutUs" },
 ];
 </script>

@@ -1,6 +1,6 @@
 <template>
   <div
-    class="relative dark:bg-gray-900 bg-gray-50 px-6 pb-20 pt-16 lg:px-8 lg:pb-28 lg:pt-24"
+    class="relative dark:bg-gray-900/80 bg-gray-50 px-6 pb-20 pt-16 lg:px-8 lg:pb-28 lg:pt-24"
   >
     <div class="relative mx-auto max-w-7xl">
       <div class="mx-auto max-w-2xl lg:mx-0">
@@ -21,7 +21,7 @@
           class="flex flex-col overflow-hidden rounded-lg shadow-lg"
         >
           <div
-            class="pt-5 px-6 grid grid-cols-2 items-center bg-gray-800 dark:bg-white"
+            class="pt-5 px-6 grid grid-cols-2 items-center bg-gray-900/80 dark:bg-white"
           >
             <div class="flex justify-start">
               <component
@@ -43,7 +43,7 @@
             </div>
           </div>
           <div
-            class="flex flex-1 flex-col justify-between bg-gray-800 dark:bg-white p-6"
+            class="flex flex-1 flex-col justify-between bg-gray-900/80 dark:bg-white p-6"
           >
             <div class="flex-1">
               <div class="text-gray-50 dark:text-gray-900">

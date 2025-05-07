@@ -34,6 +34,7 @@
 
     <Services id="services" />
     <Features />
+    <partners />
   </main>
 </template>
 <script setup>
@@ -41,6 +42,7 @@ import Services from "./Services.vue";
 import Divider from "../components/Divider.vue";
 import Impact from "../components/Impact.vue";
 import Features from "../components/Features.vue";
+import Partners from "../components/Partners.vue";
 const stats = [
   {
     title: "Year of experience",
